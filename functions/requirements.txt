@@ -1,0 +1,5 @@
+firebase_functions==0.4.3
+firebase-admin==6.9.0
+google-auth==2.40.3
+google-cloud-tasks==2.19.3
+requests==2.32.4
